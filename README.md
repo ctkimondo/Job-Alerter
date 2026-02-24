@@ -1,7 +1,7 @@
 # Job Alerter
 
 ## Project Overview
-A contanerized ETL pipeline that utilizes technologies to scrape jobs, compares job descriptions with a resume and alerts the user if the job is a high match so that the user can go ahead and apply.
+A containerized ETL pipeline designed to automate the job search process. The system scrapes real-time job listings, performs semantic analysis against a candidate's resume using LLMs, and delivers high-match alerts via Discord.
 
 # Data Engineering Architecture
 Extraction (producer.py) - Connects to the API and scrapes the job data. The data is then served to kafka for utlization. 
@@ -18,6 +18,8 @@ Contanerization - Fully packaged with Docker to ensure 100% reproduibility acros
 ## Prerequisities
 - Docker
 - Python 3.11+
+- Google Gemini API key
+- Adzuna API Credentials
 - The requirements.txt contains all libraries needed to pip install
 
 ## Running with Docker
@@ -30,6 +32,20 @@ Run this command in one terminal -> python src\main.py
 Then run this command in another terminal -> python src\producer.py
 
 This is because producer.py will extract data and send to kafka so that that data can be utilized by main.py.
+
+# Technical Stack
+Language: Python 3.11+
+
+Orchestration: Docker, Docker Compose
+
+Message Broker: Apache Kafka
+
+Database: PostgreSQL
+
+AI/ML: Google Gemini API (Generative AI)
+
+Notifications: Discord Webhooks
+
 
 # Future fixes
 Search for free AI API that has more requests per day.
