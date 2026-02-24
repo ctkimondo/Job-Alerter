@@ -1,0 +1,6 @@
+requests
+kafka-python-ng
+python-dotenv
+psycopg2-binary
+dotenv
+google-genai

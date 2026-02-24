@@ -1,0 +1,49 @@
+EDUCATION
+University of Central Florida, Orlando, FL
+B.S. Computer Science | Expected: May 2027
+•	Honors: President’s Honors Roll (Fall 2024)
+•	Relevant Coursework: DSA, OOP, Matrix & Linear Algebra, Calculus I-II
+
+PUBLICATIONS
+Kimondo, C., Wandeto, L., Indimuli, D., & Ercertin, A. (2023). The Impact of A.I on Teaching and Learning. London Journal of Social Sciences, 6, 124–129. DOI link
+• Led in research of a peer-reviewed paper analyzing AI’s impact on learning systems
+• Accumulated 1k+ abstract views and 600+ PDF downloads, 15 citations
+
+EXPERIENCE
+Office Assistant
+Lysak Hotel, Machakos, Kenya — January 2024 to June 2024
+• Performed clerical duties including data entry, recordkeeping, and document organization
+• Automated weekly occupancy reporting using Excel, reducing manual data entry time by 20%
+• Assisted hotel office operations in a back-office capacity
+
+PROJECTS
+Global Inflation Refinery & Analytics – Automated ETL Pipeline
+Python, Docker, Parquet, GitHub Actions, REST API, AWS (S3, IAM)
+• Engineered containerized ETL pipeline processing 1.6M+ OECD API records
+•  Optimized storage by ~80% using Apache Parquet columnar architecture
+•  Integrated AWS S3 storage using Boto3 for cloud-based data persistence
+•  Automated scheduled runs via CI/CD using GitHub Actions
+
+IMDb ROI Analysis – Genre Profitability Study
+Python, SQL, Pandas
+• Analyzed 100K+ film records using SQL to rank genres by ROI
+• Delivered profitability insights through aggregated revenue metrics
+
+Aircraft Risk Analysis – Aviation Safety, Product & Investment Support
+Python, Pandas, SQL, Tableau
+• Analyzed 90K+ aviation records to model safety risk trends
+• Engineered fatality index for accident-phase risk classification
+• Built Tableau dashboard for stakeholder decision support
+
+CERTIFICATIONS
+• CS50– Harvard University – C, SQL, Python, Flask
+• Code Path’s (WEB101) -  HTML, CSS, JavaScript (team-based development)
+
+TECHNICAL SKILLS
+Languages: Python (Pandas, NumPy, PyArrow), SQL, C, JavaScript
+Data Engineering: ETL Pipelines, Apache Parquet, Data Modeling, REST APIs
+Cloud & DevOps: Docker, GitHub Actions (CI/CD), Git, Cron, AWS (S3, IAM)
+Analytics: Tableau, Seaborn, Statistical Analysis
+
+VOLUNTEER EXPERIENCE
+Jitegemee Children’s Program (Spring 2024) – Fundraised tuition for underprivileged children
